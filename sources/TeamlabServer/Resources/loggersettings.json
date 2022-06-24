@@ -1,0 +1,14 @@
+{
+  "Console": [
+    "Debug",
+    "Info",
+    "Warning",
+    "Error"
+  ],
+  "File": [
+    "Trace",
+    "Debug",
+    "Info",
+    "Error"
+  ]
+}
